@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hassan Ayman</h1>
 <h3 align="center">A Full-stack Web Developer & Flutter Developer</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development.;A+Full-stack+Web+developer+&+Flutter+developer.;Always+learning+new+things."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development.;A+Full-stack+Web+developer+and+Flutter+developer.;Always+learning+new+things."></a>
 </p>
     
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Hassan-Ayman-SE&label=Profile%20views&color=0e75b6&style=flat" alt="HASSAN AYMAN PROFILE VIEWS" /> </p>
